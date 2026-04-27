@@ -1,6 +1,6 @@
 # 🚀 GitHub Actions CI/CD for Python Web App
 
-This project demonstrates a full Continuous Integration and Continuous Deployment (CI/CD) pipeline using **GitHub Actions** and **Render** to build, test, and deploy a simple Python Flask web app automatically on every push to the `main` branch.
+A full Continuous Integration and Continuous Deployment (CI/CD) pipeline using **GitHub Actions** and **Render** to build, test, and deploy a simple Python Flask web app automatically on every push to the `main` branch.
 
 ---
 
